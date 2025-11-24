@@ -108,3 +108,5 @@ The code is organized into clear functions for easy maintenance:
 | `buy_stock(symbol, qty)` | Handles stock purchase and updates the weighted average buy price. |
 | `sell_stock(symbol, qty)` | Handles stock sale, updates quantity, and calculates realized profit/loss. |
 | `show_portfolio()` | Iterates through holdings, calculates live value, and displays the summary. |
+
+Author:  Shreshth Shukla
