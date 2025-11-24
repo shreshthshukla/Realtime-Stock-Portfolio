@@ -109,4 +109,4 @@ The code is organized into clear functions for easy maintenance:
 | `sell_stock(symbol, qty)` | Handles stock sale, updates quantity, and calculates realized profit/loss. |
 | `show_portfolio()` | Iterates through holdings, calculates live value, and displays the summary. |
 
-Author:  Shreshth Shukla
+**Author:  Shreshth Shukla**
